@@ -1,6 +1,6 @@
-# Duo · Atualizações Android
+# Duo BL · Atualizações Android
 
-Este é o canal público de instaladores e versões do Duo. O repositório do projeto permanece privado.
+Este é o canal público de instaladores e versões do Duo BL. O repositório do projeto permanece privado.
 
 ## Instalar
 
