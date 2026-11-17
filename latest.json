@@ -1,11 +1,11 @@
 {
   "formatVersion": 1,
   "packageName": "br.com.duo",
-  "versionCode": 4,
-  "versionName": "1.3.0",
+  "versionCode": 5,
+  "versionName": "1.3.1",
   "minSdk": 23,
-  "size": 82779,
-  "sha256": "a70b60966d7d2dcdc53b852f6bb86facd4288dadfef7e465f67cf7213c8be862",
-  "downloadUrl": "https://github.com/Luckmaiqui/blbills-updates/releases/download/v1.3.0/Duo-1.3.0.apk",
+  "size": 82846,
+  "sha256": "a32d7c5eba7160955e4bdb117b0b19d5ab9ae5e25c427df1212336d4acf681b7",
+  "downloadUrl": "https://github.com/Luckmaiqui/blbills-updates/releases/download/v1.3.1/Duo-1.3.1.apk",
   "notes": "Nova versão do Duo. As informações detalhadas estão na página desta versão."
 }
