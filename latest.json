@@ -1,11 +1,11 @@
 {
   "formatVersion": 1,
   "packageName": "br.com.duo",
-  "versionCode": 7,
-  "versionName": "1.4.1",
+  "versionCode": 8,
+  "versionName": "1.5.0",
   "minSdk": 23,
-  "size": 91038,
-  "sha256": "f5f0213dce9f87f294c4470231123d01de751e97c9d37ed596dc056d860b04d8",
-  "downloadUrl": "https://github.com/Luckmaiqui/blbills-updates/releases/download/v1.4.1/Duo-1.4.1.apk",
-  "notes": "Duo BL: seleção de banco em uma lista, como na forma de pagamento. As informações detalhadas estão na página desta versão."
+  "size": 103326,
+  "sha256": "f25b0094682f527c1a45a7395fa2316b96f7f751e9e6f8f2731facc51c6db143",
+  "downloadUrl": "https://github.com/Luckmaiqui/blbills-updates/releases/download/v1.5.0/Duo-1.5.0.apk",
+  "notes": "Duo BL: senha local de 6 dígitos e instalação de atualização após sua autorização. As informações detalhadas estão na página desta versão."
 }
